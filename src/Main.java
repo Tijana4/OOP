@@ -16,6 +16,7 @@ public class Main {
         {
             System.out.println("nije ford!");
         }
+        System.out.println("izmena za git pokusaj 2");
             
     }
 }
