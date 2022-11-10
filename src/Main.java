@@ -18,5 +18,6 @@ public class Main {
         }
         System.out.println("izmena za git pokusaj 2");
         System.out.println("izmena 2 za git");
+        System.out.println("izmena 3 git");
     }
 }
